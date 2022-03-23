@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://lauraalyson.github.io/csb-oyuszz/static/css/main.b437bcb1.chunk.css",
+    "main.js": "https://lauraalyson.github.io/csb-oyuszz/static/js/main.ee4cdc19.chunk.js",
+    "main.js.map": "https://lauraalyson.github.io/csb-oyuszz/static/js/main.ee4cdc19.chunk.js.map",
+    "runtime-main.js": "https://lauraalyson.github.io/csb-oyuszz/static/js/runtime-main.09f98ddc.js",
+    "runtime-main.js.map": "https://lauraalyson.github.io/csb-oyuszz/static/js/runtime-main.09f98ddc.js.map",
+    "static/css/2.862f0cb3.chunk.css": "https://lauraalyson.github.io/csb-oyuszz/static/css/2.862f0cb3.chunk.css",
+    "static/js/2.8ef48a47.chunk.js": "https://lauraalyson.github.io/csb-oyuszz/static/js/2.8ef48a47.chunk.js",
+    "static/js/2.8ef48a47.chunk.js.map": "https://lauraalyson.github.io/csb-oyuszz/static/js/2.8ef48a47.chunk.js.map",
+    "index.html": "https://lauraalyson.github.io/csb-oyuszz/index.html",
+    "static/css/2.862f0cb3.chunk.css.map": "https://lauraalyson.github.io/csb-oyuszz/static/css/2.862f0cb3.chunk.css.map",
+    "static/css/main.b437bcb1.chunk.css.map": "https://lauraalyson.github.io/csb-oyuszz/static/css/main.b437bcb1.chunk.css.map",
+    "static/js/2.8ef48a47.chunk.js.LICENSE.txt": "https://lauraalyson.github.io/csb-oyuszz/static/js/2.8ef48a47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09f98ddc.js",
+    "static/css/2.862f0cb3.chunk.css",
+    "static/js/2.8ef48a47.chunk.js",
+    "static/css/main.b437bcb1.chunk.css",
+    "static/js/main.ee4cdc19.chunk.js"
+  ]
+}
